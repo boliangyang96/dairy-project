@@ -1,5 +1,5 @@
 # dairy-project
-Deploy Flask Machine Learning Application (Dairy Project) on Azure App Services
+Deploy Flask Machine Learning Application (Dairy Project) on Azure App Services (with Continuous Delivery of Azure Pipelines)
 
 
 ## cs5412 project
