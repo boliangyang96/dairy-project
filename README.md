@@ -2,7 +2,7 @@
 Deploy Flask Machine Learning Application (Dairy Project) on Azure App Services
 
 
-## cs5412project
+## cs5412 project
 Repository for our dairy project (Prediction of estrus of cow and pregnant probability based on the milk yield and milk components)
 
 
